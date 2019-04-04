@@ -19,7 +19,7 @@
     "tslint-microsoft-contrib": "6.1.0",
     "@microsoft/node-library-build": "6.0.22",
     "@microsoft/rush-stack-compiler-2.4": "0.3.3",
-    "office-ui-fabric-react": "6.164.3",
+    "office-ui-fabric-react": "latest",
     "gulp": "~3.9.1"
   }
 }

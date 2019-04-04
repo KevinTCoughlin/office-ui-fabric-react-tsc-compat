@@ -6,17 +6,19 @@
 
 Builds Microsoft's [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) against various versions of [TypeScript](https://github.com/Microsoft/typescript) using `rush-stack-compiler`.
 
-## office-ui-fabric-react Versions
+## office-ui-fabric-react Version(s)
 
-- 6.164.3
+![npm (tag)](https://img.shields.io/npm/v/office-ui-fabric-react/latest.svg)
 
 ## TypeScript Versions
 
-- 2.4.2
-- 2.7.2
-- 2.9.2
-- 3.0.3
-- 3.1.6
+- 2.4.x
+- 2.7.x
+- 2.9.x
+- 3.0.x
+- 3.1.x
+- 3.2.x
+- 3.3.x
 
 ## Run locally
 
