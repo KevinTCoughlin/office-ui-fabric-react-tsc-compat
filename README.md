@@ -1,4 +1,4 @@
-# office-ui-fabric-react rush-stack-compiler build validation
+# office-ui-fabric-react-tsc-compat
 
 [![Build status](https://kevincoughlin.visualstudio.com/office-ui-fabric-react/_apis/build/status/office-ui-fabric-react-CI)](https://kevincoughlin.visualstudio.com/office-ui-fabric-react/_build/latest?definitionId=14)
 
