@@ -4,7 +4,7 @@
 
 ## Overview
 
-Builds Microsoft's [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) against various versions of [TypeScript](https://github.com/Microsoft/typescript) using `rush-stack-compiler`.
+Builds Microsoft's [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) against various versions of [TypeScript](https://github.com/Microsoft/typescript) using [rush-stack-compiler](https://www.npmjs.com/package/@microsoft/rush-stack-compiler-3.3).
 
 ## office-ui-fabric-react Version(s)
 
