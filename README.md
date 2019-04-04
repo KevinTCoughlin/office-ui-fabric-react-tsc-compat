@@ -1,6 +1,6 @@
 # office-ui-fabric-react-tsc-compat
 
-[![Build Status](https://kevincoughlin.visualstudio.com/office-ui-fabric-react/_apis/build/status/office-ui-fabric-react-CI%20(1)?branchName=master)](https://kevincoughlin.visualstudio.com/office-ui-fabric-react/_build/latest?definitionId=16&branchName=master)
+[![Build Status](https://kevintcoughlin.visualstudio.com/office-ui-fabric-react/_apis/build/status/office-ui-fabric-react-CI?branchName=master)](https://kevintcoughlin.visualstudio.com/office-ui-fabric-react/_build/latest?definitionId=7&branchName=master)
 
 ## Overview
 
