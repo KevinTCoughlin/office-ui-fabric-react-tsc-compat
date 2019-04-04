@@ -1,0 +1,25 @@
+{
+  "name": "rush-stack-compiler-3.2-oufr-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "gulp test --clean"
+  },
+  "dependencies": {
+    "@types/node": "8.5.8"
+  },
+  "devDependencies": {
+    "@types/react": "16.3.16",
+    "@types/react-dom": "16.0.5",
+    "tslib": "1.9.3",
+    "typescript": "~3.2.4",
+    "tslint-microsoft-contrib": "6.1.0",
+    "@microsoft/node-library-build": "6.0.22",
+    "@microsoft/rush-stack-compiler-3.2": "0.3.1",
+    "office-ui-fabric-react": "latest",
+    "gulp": "~3.9.1"
+  }
+}
