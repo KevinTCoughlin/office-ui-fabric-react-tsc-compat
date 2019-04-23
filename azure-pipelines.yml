@@ -1,9 +1,12 @@
-trigger:
+rush trigger:
 - master
+
 pr:
 - master
+
 pool:
   name: Hosted VS2017
+
 jobs:
 - job: test
   displayName: Test office-ui-fabric-react TypeScript compatibility
