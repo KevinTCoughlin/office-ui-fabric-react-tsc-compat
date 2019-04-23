@@ -4,9 +4,17 @@ pr:
 - master
 pool:
   name: Hosted VS2017
-steps:
-- script: 'node .\common\scripts\install-run-rush.js install'
-  displayName: 'rush install'
+jobs:
+- job: test
+  displayName: Test office-ui-fabric-react TypeScript compatibility
+  # strategy:
+  #   matrix: { }
+  workspace:
+    clean: all
+  # variables: { string: string } | [ variable | variableReference ]
+  steps:
+  - script: 'node .\common\scripts\install-run-rush.js install'
+    displayName: 'rush install'
 
-- script: 'node .\common\scripts\install-run-rush.js test'
-  displayName: 'rush test'
+  - script: 'node .\common\scripts\install-run-rush.js test'
+    displayName: 'rush test'
