@@ -335,6 +335,10 @@
     {
       "packageName": "rush-stack-compiler-3.3-oufr-test",
       "projectFolder": "tests/rush-stack-compiler-3.3-oufr-test"
+    },
+    {
+      "packageName": "rush-stack-compiler-3.4-oufr-test",
+      "projectFolder": "tests/rush-stack-compiler-3.4-oufr-test"
     }
   ]
 }
